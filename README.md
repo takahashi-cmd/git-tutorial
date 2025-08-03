@@ -8,3 +8,4 @@
 - feature-D
 - feature-E
 - feature-F
+- feature-G
